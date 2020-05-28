@@ -1,2 +1,4 @@
 Jupiter is the largest planet.
 
+Jupiter is a gas giant.
+
